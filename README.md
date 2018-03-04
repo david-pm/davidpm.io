@@ -1,0 +1,3 @@
+# davidpm.io
+
+static site
