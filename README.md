@@ -1,3 +1,3 @@
 # davidpm.io
 
-static site
+[static site](http://davidpm.io/)
