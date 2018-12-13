@@ -10,7 +10,8 @@ $(document).ready(function() {
     "have kids early save for the future plan ahead watch the news",
     "costco sams club kmart walmart target jcpenny sears kohls", 
     "the war on drugs palestine sida runaway greenhouse effect",
-    "find a hobby pay for cable water your lawn be a good neighbor"
+    "find a hobby pay for cable water your lawn be a good neighbor",
+    "HUP INT QUIT ILL TRAP ABRT EMT FPE KILL BUS SEGV SYS PIPE ALRM TERM URG STOP TSTP CONT CHLD TTIN TTOU IO XCPU XFSZ VTALRM PROF WINCH INFO USR1 USR2"
   ]
  let rand = myList[Math.floor(Math.random() * myList.length)];
  $('#mantra')[0].innerHTML = "> " + rand;
