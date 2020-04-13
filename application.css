@@ -12,7 +12,7 @@
 html{font:300 62.5%/1 'Source Code Pro', monospace;background:rgba(10,9,9,0.95);color:#00FBFF}
 body{margin:.5rem;font-size:1rem}
 html, body { height: 100%; }
-#main { min-height: 100%; margin: 0 auto -91px; }
+#main { min-height: 100%; margin: 0 auto -105px; }
 footer { height: 91px; }
 hr{border-color:#B9FFB9}
 .main-header{margin-bottom:3rem}
